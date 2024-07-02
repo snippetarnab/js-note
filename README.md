@@ -1,0 +1,2 @@
+# js-note
+first js 
