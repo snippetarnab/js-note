@@ -1,7 +1,5 @@
 /* =====================================================================
-   JAVASCRIPT BASICS GUIDE
-   Run it with:  node js_basics_guide.js
-   Each section = one MAIN TOPIC, with small sub-topics explained inside.
+  JavaScript Notes
    ===================================================================== */
 
 // Helper to print neat section titles in the console
@@ -311,4 +309,4 @@ runAsyncDemo();
    - Prefer arrow functions + map/filter/reduce for arrays.
    - Use destructuring & spread to write shorter code.
    - Use async/await for anything that takes time.
-   ===================================================================== */
+  
